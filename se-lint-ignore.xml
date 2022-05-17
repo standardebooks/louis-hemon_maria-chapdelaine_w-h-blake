@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-5.xhtml">
+		<ignore>
+			<code> t-042</code>
+			<reason>manual review vs scans, no period at end of quote: States”</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
