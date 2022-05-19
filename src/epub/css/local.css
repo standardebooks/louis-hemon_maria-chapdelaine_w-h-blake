@@ -25,3 +25,11 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
