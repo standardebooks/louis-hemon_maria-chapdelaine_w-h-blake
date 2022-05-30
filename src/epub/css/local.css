@@ -34,4 +34,6 @@ p span.i2{
 	text-indent: 0;
 }
 
-body [xml|lang]{ font-style: italic; }
+body [xml|lang]{
+	font-style: italic;
+}
