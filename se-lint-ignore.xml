@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-9.xhtml">
-		<ignore>
-			<code>s-032</code>
-			<reason>se:name.publication.song believed to be a valid epub:type</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
