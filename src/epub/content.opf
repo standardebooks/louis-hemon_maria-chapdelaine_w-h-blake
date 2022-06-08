@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/louis-hemon/maria-chapdelaine/w-h-blake</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-11T03:32:03Z</dc:date>
+		<meta property="dcterms:modified">2022-06-11T03:32:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,16 +43,18 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">It takes a hardy people to survive farming the harsh lands of the French Canadian wilderness and Maria Chapdelaine must choose either to remain Québécois in this unforgiving land that has broken her heart or to pursue a softer urban life in foreign New England.</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;It takes a hardy people to survive farming the harsh lands of the French Canadian wilderness and Maria Chapdelaine must choose either to remain Québécois in this unforgiving land that has broken her heart or to pursue a softer urban life in foreign New England. French writer &lt;a href="https://standardebooks.org/ebooks/louis-hemon"&gt;Louis Hémon&lt;/a&gt; wrote &lt;i&gt;Maria Chapdelaine&lt;/i&gt; during the two years he lived in Quebec and it is based on his experiences working on a farm in the Lac Saint-Jean region where the novel is set. It was his only work published in his lifetime as he died in a tragic train accident before learning of its success. It is described as a master work that was Canada’s entry into world literature and Quebec’s introduction the rest of the francophone world. An enduring work, it has served as the basis of four movies; in 1934, 1950,1983, and most recently 2021. It has been adapted as plays, an illustrated novel, radio novel, television series, and opera. The author is the subject of two biographies and numerous papers, theses, studies, and articles.&lt;/p&gt;
+			&lt;p&gt;It takes a hardy people to survive farming the harsh lands of the French Canadian wilderness, and Maria Chapdelaine must choose either to remain Québécois in this unforgiving land that has broken her heart, or to pursue a softer urban life in foreign New England.&lt;/p&gt;
+			&lt;p&gt;French writer &lt;a href="https://standardebooks.org/ebooks/louis-hemon"&gt;Louis Hémon&lt;/a&gt; wrote &lt;i&gt;Maria Chapdelaine&lt;/i&gt; during the two years he lived in Quebec, and it’s based on his experiences working on a farm in the Lac Saint-Jean region where the novel is set. It was his only work published in his lifetime, as he died in a tragic train accident before learning of its success.&lt;/p&gt;
+			&lt;p&gt;The novel is described as a masterwork that was Canada’s entry into world literature and Quebec’s introduction to the rest of the Francophone world. An enduring work, it has served as the basis of four movies, and has been adapted into plays, an illustrated novel, a radio novel, a television series, and an opera.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4383</dc:source>
 		<dc:source>https://archive.org/details/mariachapdelaine00hmon_1</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">46340</meta>
+		<meta property="se:reading-ease.flesch">62.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Maria_Chapdelaine</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/louis-hemon_maria-chapdelaine_w-h-blake</meta>
 		<dc:creator id="author">Louis Hémon</dc:creator>
@@ -86,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
