@@ -53,6 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/4383</dc:source>
 		<dc:source>https://archive.org/details/mariachapdelaine00hmon_1</dc:source>
+		<meta property="se:production-notes">The translator is W. H. Blake 1861-1924, NOT https://en.wikipedia.org/wiki/William_Hume_Blake (W. H. Blake 1809-1870). Blake 1924 has no Wikipedia page at the moment. </meta>
 		<meta property="se:word-count">46340</meta>
 		<meta property="se:reading-ease.flesch">62.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Maria_Chapdelaine</meta>
@@ -65,7 +66,6 @@
 		<dc:contributor id="translator">W. H. Blake</dc:contributor>
 		<meta property="file-as" refines="#translator">Blake, W. H.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">William Hume Blake</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/William_Hume_Blake</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr95017232</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Clarence Gagnon</dc:contributor>
