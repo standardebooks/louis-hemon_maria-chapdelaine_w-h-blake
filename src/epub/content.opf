@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4383</dc:source>
 		<dc:source>https://archive.org/details/mariachapdelaine00hmon_1</dc:source>
 		<meta property="se:production-notes">The translator is W. H. Blake 1861-1924, NOT https://en.wikipedia.org/wiki/William_Hume_Blake (W. H. Blake 1809-1870). Blake 1924 has no Wikipedia page at the moment. </meta>
-		<meta property="se:word-count">46340</meta>
+		<meta property="se:word-count">46080</meta>
 		<meta property="se:reading-ease.flesch">63.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Maria_Chapdelaine</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/louis-hemon_maria-chapdelaine_w-h-blake</meta>
