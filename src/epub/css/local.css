@@ -27,7 +27,7 @@ p span.i2{
 	text-indent: -1em;
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	max-width: 60%;
 	text-align: justify;
