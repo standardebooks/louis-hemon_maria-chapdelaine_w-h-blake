@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/louis-hemon/maria-chapdelaine/w-h-blake</dc:identifier>
 		<dc:date>2022-06-11T03:32:03Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;It takes a hardy people to survive farming the harsh lands of the French Canadian wilderness, and Maria Chapdelaine must choose either to remain Québécois in this unforgiving land that has broken her heart, or to pursue a softer urban life in foreign New England.&lt;/p&gt;
 			&lt;p&gt;French writer &lt;a href="https://standardebooks.org/ebooks/louis-hemon"&gt;Louis Hémon&lt;/a&gt; wrote &lt;i&gt;Maria Chapdelaine&lt;/i&gt; during the two years he lived in Quebec, and it’s based on his experiences working on a farm in the Lac Saint-Jean region where the novel is set. It was his only work published in his lifetime, as he died in a tragic train accident before learning of its success.&lt;/p&gt;
 			&lt;p&gt;The novel is described as a masterwork that was Canada’s entry into world literature and Quebec’s introduction to the rest of the Francophone world. An enduring work, it has served as the basis of four movies, and has been adapted into plays, an illustrated novel, a radio novel, a television series, and an opera.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4383</dc:source>
 		<dc:source>https://archive.org/details/mariachapdelaine00hmon_1</dc:source>
