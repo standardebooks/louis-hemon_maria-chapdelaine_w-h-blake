@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.</dc:abstract>
+		<meta property="schema:abstract">Maria Chapdelaine, a woman living in the French Canadian wilderness, must choose either to remain Québécois in the land that has broken her heart, or to pursue a softer urban life in foreign New England.</meta>
 		<dc:description>
 			&lt;p&gt;It takes a hardy people to survive farming the harsh lands of the French Canadian wilderness, and Maria Chapdelaine must choose either to remain Québécois in this unforgiving land that has broken her heart, or to pursue a softer urban life in foreign New England.&lt;/p&gt;
 			&lt;p&gt;French writer &lt;a href="https://standardebooks.org/ebooks/louis-hemon"&gt;Louis Hémon&lt;/a&gt; wrote &lt;i&gt;Maria Chapdelaine&lt;/i&gt; during the two years he lived in Quebec, and it’s based on his experiences working on a farm in the Lac Saint-Jean region where the novel is set. It was his only work published in his lifetime, as he died in a tragic train accident before learning of its success.&lt;/p&gt;
