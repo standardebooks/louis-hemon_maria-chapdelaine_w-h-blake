@@ -83,7 +83,7 @@
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Paul King</dc:contributor>
-		<meta property="file-as" refines="#producer-1">&gt;King, Paul</meta>
+		<meta property="file-as" refines="#producer-1">King, Paul</meta>
 		<link href="https://kingrpaul.github.io/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
